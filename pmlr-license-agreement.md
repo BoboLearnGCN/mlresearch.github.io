@@ -5,9 +5,13 @@ title: Publication Agreement
 
 This is a publication agreement[^language] (“this agreement”) regarding a written manuscript currently entitled:
 
+DEP-GAP: Depth effects correction and lithology type prediction for geophysical inversion data
+
 ---
 
 (“the article”) to be published in PMLR (“the proceedings”). The parties to this Agreement are:
+
+Fangda Song
 
 ---
 
@@ -42,8 +46,8 @@ interest, including your heirs. It will terminate if the publisher does not publ
 I HAVE READ AND AGREE FULLY WITH THE TERMS OF THIS AGREEMENT.
 
 * Corresponding Author:
-    * Signed:
-    * Date:
+    * Signed: Fangda Song
+    * Date: 2026.7.14
 
 
 [^language]: The language of this publication agreement is based on Stuart Shieber’s model open-access journal publication agreement, version 1.2, available at http://bit.ly/1m9UsNt.
